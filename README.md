@@ -5,3 +5,5 @@ A Global 24-hourly Retrieval of Solar-Induced Chlorophyll Fluorescence and Evapo
 Author: Zhuoying Deng (dengzy@cug.edu.cn), Tingyu Li, Jinghua Chen, Shaoqiang Wang, Kun Huang, Peng Gu, Haoyu Peng, Zhihui Chen
 
 More details of SURD causal inference method can be seenn in https://github.com/Computational-Turbulence-Group/SURD
+
+Data Share: https://doi.org/10.57760/sciencedb.ecodb.00177
