@@ -1,6 +1,6 @@
 # Global-Hourly-SIF-ET-Retrieval
 
-A Global 24-hourly Retrieval of Solar-Induced Chlorophyll Fluorescence and Evapotranspiration from OCO-2, OCO-3 and ECOSTRESS over 1982–2022
+Global Retrieval of 24-hourly Solar-Induced Chlorophyll Fluorescence and Evapotranspiration from OCO-2, OCO-3 and ECOSTRESS over 1982–2022
 
 Author: Zhuoying Deng (dengzy@cug.edu.cn), Tingyu Li, Jinghua Chen, Shaoqiang Wang, Kun Huang, Peng Gu, Haoyu Peng, Zhihui Chen
 
